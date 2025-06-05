@@ -1,7 +1,7 @@
 #Library Source:
 #https://pypi.org/project/manufacturing/
-"""
-pip install manufacturing
+
+#pip install manufacturing
 
 import numpy as np
 import manufacturing
