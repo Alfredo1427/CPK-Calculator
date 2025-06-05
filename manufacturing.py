@@ -1,5 +1,5 @@
-Library Source:
-https://pypi.org/project/manufacturing/
+#Library Source:
+#https://pypi.org/project/manufacturing/
 """
 pip install manufacturing
 
